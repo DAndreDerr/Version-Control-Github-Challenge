@@ -1,0 +1,12 @@
+The Terminal is the actual interface of your console (physical device) that lets you  type and perform text-based commands. The terminal is a text input and output environment. The terminal is a great tool for communicating with your computer and other external networks/computers. 
+In coding the terminal is primarily used for:
+
+- Installing specific packages, updates, or to export and import your work to platforms such as git hub
+
+- Code testing
+
+-Error display
+
+The major difference between git and git hub is that while git is a tool that is used to manage multiple versions of source code edits that are then transferred to files in a Git repository. Github serves as a location for uploading copies of a Git repository
+
+We use GitHub because it assists with managing and keeping a history for your projects. Github also allows you to collaborate with others on projects in the GitHub repository at the same time.
